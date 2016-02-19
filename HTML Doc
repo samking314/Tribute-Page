@@ -1,0 +1,49 @@
+<html>
+
+<!-- import the Google font 'Arvo' -->
+<link href="http://fonts.googleapis.com/css?family=Arvo" rel="stylesheet" type="text/css">
+
+<!-- add a container and well class for the entirety of the text -->
+<div class="container">
+  <div class="well">
+    <!-- add a row class to format the headline and quote of Paul Erdos -->
+    <div class="row">
+      <div class="col-xs-12">
+        <h1 class="text-center">Paul Erdös</h1>
+        <h2 class="text-center"><em>"My brain is open."</em></h2>
+        <!-- adding the thumbnail format fits the image in the well -->
+        <div class="thumbnail">
+          <img style="center" src="http://www.math.ucsd.edu/~erdosproblems/imgs/erdos_and_fan.jpg">
+          <div class="caption text-center">Erdös at a math conference held by Univeristy of California, San Diego.</div>
+        </div>
+        <!-- List of major accomplishments in Paul Erdos' life -->
+        <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+          <h3>Paul Erdös' Major Accomplishments:</h3>
+          <ul>
+            <li><strong>1913</strong> - Born in Budapest, Austria-Hungary</li>
+            <li><strong>1934</strong> - Awarded a Doctorate in Mathematics from the University of Budapest at the age of 21. In the same year, he was also awarded the Wolf Prize for his work in combinatorics, number theory, probability, set theory, and mathematical analysis.</li>
+            <li><strong>1938</strong> - Accepted a scholarship position at Princeton University</li>
+            <li><strong>1952</strong> - Denied access by the United States Citizenship and Immigration Services re-entry into the country
+            <li><strong>1996</strong> - dies at the age of 83 of a heart attack, while at a math conference in Warsaw</li>
+            
+          </ul>
+          <!-- ending bloackquote from Paul Erdos -->
+          <blockquote> 
+            <p>"I think Erdős had the idea that the problem sits in a larger context. So many of his harmless-looking problems grew into something much larger. You never know when you plant a seed, a little acorn, will it just turn into a weed, or will it be a great oak tree? You don’t know."
+            </p>
+            <footer><cite>Ronald Graham</cite></footer>
+          </blockquote>
+            <!-- a link to Paul Erdos' wiki page -->
+            <h3>If you're curious, check out his <a href="https://en.wikipedia.org/wiki/Paul_Erd%C5%91s" target="_blank">Wikipedia page</a>-- you won't be disapointed.
+            </h3>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer class="text-center">
+    <hr>
+    <p>Written and coded by Sam King</p></hr>
+  </footer>
+</div>
+
+</html>
