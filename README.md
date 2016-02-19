@@ -1,4 +1,4 @@
 # Tribute-Page
 
-Not much to say, but the subject of the tribute page has yet to be decided on.
+This Tribute page is about Paul Erdös.
 
